@@ -8,5 +8,5 @@ identificar factores influyentes y proporcionar recomendaciones que faciliten la
 
 En el Siguiente link se puede apreciar el análisi pre eliminar de los datos
 
-https://docs.google.com/presentation/d/e/2PACX-1vT6hqBHPCwfzw5yAzj3TrBhFxYwZ96DrJMQDd8VPV0PNqnCtMfzaHzaufUMWNch5S9Bl7cU06MBW33P/pub?start=false&loop=false&delayms=60000
 
+https://docs.google.com/presentation/d/e/2PACX-1vT6hqBHPCwfzw5yAzj3TrBhFxYwZ96DrJMQDd8VPV0PNqnCtMfzaHzaufUMWNch5S9Bl7cU06MBW33P/pub?start=false&loop=false&delayms=3000
