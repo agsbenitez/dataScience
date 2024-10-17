@@ -1,7 +1,7 @@
 Análisis de Arbolado Urbano
 
 
-El objetivo de este trabajo es aplicar los conocimientos adquiridos en el curso de Data Science II de la plataforma CoderHouse
+El objetivo de este trabajo es aplicar los conocimientos adquiridos en Data Science 
 para analizar la salud del arbolado urbano en la ciudad de Corrientes.
 Se pretende utilizar métodos y técnicas de análisis de datos para evaluar el estado actual del arbolado,
 identificar factores influyentes y proporcionar recomendaciones que faciliten la toma de decisiones para la gestión y mejora del arbolado urbano.
